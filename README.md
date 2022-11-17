@@ -5,3 +5,6 @@ Transit Systems Of World database consists of different datasets (csv format). T
 
 Data source: 
 https://www.kaggle.com/datasets/citylines/city-lines
+
+Data Insertion to DB:
+As the datasets are csv files, we intend to insert the data into the database by using Pandas Dataframe in Python.
